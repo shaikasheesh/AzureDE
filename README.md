@@ -20,3 +20,6 @@ Here is the Crisp detail on the project:
 6) Using Power BI desktop we can connect to this Azure Synapse SQL and load the data and build visualizations on top it.
 
 7) In real time, if any data is updated/modified onto the premise server, it should reflect on the BI reporting. so we are automating the pipeline trigger schedule which does the ETL tasks and update the reports in real time
+
+![image](https://github.com/shaikasheesh/AzureDE/assets/63601317/3f6af4a5-8c33-4986-be54-dd061fd1df22)
+
