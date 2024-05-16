@@ -1,5 +1,7 @@
-# AzureDE Project README
-Here is the Crisp detail on the project:
+# End to End Data Engineering Project Using Azure Cloud
+In detail Explanation can be found in Project_Details_updated.docx file
+
+# Here is the Crisp detail on the project:
 
 1) Raw Data is stored on the On-premise SQL Server
 
